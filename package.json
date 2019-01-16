@@ -1,0 +1,19 @@
+{
+  "name": "react-webpack-tutorial",
+  "version": "1.0.0",
+  "description": "Learn how to build a React app without create-react-app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H0sway/react-webpack-tutorial.git"
+  },
+  "author": "Joshua K. Russell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H0sway/react-webpack-tutorial/issues"
+  },
+  "homepage": "https://github.com/H0sway/react-webpack-tutorial#readme"
+}
