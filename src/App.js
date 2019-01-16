@@ -1,13 +1,23 @@
 // import React
 import React, { Component } from 'react';
 
+// import components
+import Header from './components/Header';
+import Footer from './components/Footer';
+
 // Define the App component
 class App extends Component {
   // Render the HTML that's returned in this method
   render() {
     return (
       <div className="App">
-        <h1>Hello there!</h1>
+        {/* Call Header and Footer as if they were HTML elements */}
+        {/* This is how to comment code in JSX, normal // works outside of the HTML parts */}
+        <Header />
+
+        <h3>Hello there!</h3>
+
+        <Footer />
       </div>
     )
   }
